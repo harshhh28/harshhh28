@@ -1,5 +1,5 @@
 <h1 align="center">Hola Amigos 👋, I'm Harsh Gajjar</h1>
-<h3 align="center">A passionate full-stack developer from India!</h3>
+<h3 align="center">A passionate software developer from India!</h3>
 
 - 🌱 I’m currently deep diving into **modern web and AI Agent frameworks.**
 
