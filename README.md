@@ -13,7 +13,7 @@ Developer 👨‍💻 | Blogger ✍️ | Learner 🌱
 </div>
 
 <div align="center"> 
-  <a href="https://linkt.ree/harshgajjar" target="_blank">
+  <a href="https://linktr.ee/harshgajjar" target="_blank">
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
 </div>
