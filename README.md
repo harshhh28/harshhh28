@@ -61,8 +61,8 @@ Developer 👨‍💻 | Blogger ✍️ | Learner 🌱
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agno_(Phidata)-000000?style=for-the-badge&logo=phidata&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agno_(Phidata)-007ACC?style=for-the-badge&logo=phidata&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-E34F26?style=for-the-badge&logo=groq&logoColor=white" />
 </div>
 
 <br/>
