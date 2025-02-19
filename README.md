@@ -1,14 +1,14 @@
 <h1 align="center">
+  <img src="https://media.giphy.com/media/jTMw980OBX5YEAulPm/giphy.gif?cid=790b7611jfmenfs3rsqh3uxl5ja0hbtllw7fskp4ta8x8fts&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="Hello" height="100"/>
   <div align="center">
-    नमस्ते, Everyone 👋
-  </div>
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Harsh+Gajjar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Harsh+Gajjar!;" alt="Harsh Gajjar" />
   </div>
 </h1>
 
 <h3 align="center">
+
 Developer 👨‍💻 | Blogger ✍️ | Learner 🌱
+
 </h3>
 
 <div align="center">
