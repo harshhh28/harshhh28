@@ -64,6 +64,7 @@ Developer 👨‍💻 | Blogger ✍️ | Learner 🌱
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Agno_(Phidata)-007ACC?style=for-the-badge&logo=phidata&logoColor=white" />
   <img src="https://img.shields.io/badge/Groq-E34F26?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </div>
 
 <br/>
