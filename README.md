@@ -13,10 +13,11 @@ current   →  diving in AI agents + backend systems + devops
 about me
 ├── i like building things end to end, from idea to deployed
 ├── i learn by breaking stuff, then writing about how i fixed it
-├── currently exploring  →  AI agents, backend systems, devops
 └── always up for  →  good conversations about tech and side projects
 ```
 
 <div align="center">
 <sub><code>happy engineering!</code></sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:3f3f46&height=120&section=footer&animation=twinkling" width="100%" alt="" />
