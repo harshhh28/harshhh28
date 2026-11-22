@@ -20,4 +20,4 @@ about me
 <sub><code>happy engineering!</code></sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:3f3f46&height=120&section=footer&animation=twinkling" width="100%" alt="" />
+<img src="assets/calm.svg" width="100%" alt="calm night sky over gentle waves" />
