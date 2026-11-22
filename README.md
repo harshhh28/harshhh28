@@ -9,7 +9,13 @@ writing   →  yes, blogs. not a journal (mostly)
 current   →  diving in AI agents + backend systems + devops
 ```
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=harshhh28&bg_color=0a0a0f&color=a1a1aa&line=3f3f46&point=e4e4e7&area=true&hide_border=true)
+```
+about me
+├── i like building things end to end, from idea to deployed
+├── i learn by breaking stuff, then writing about how i fixed it
+├── currently exploring  →  AI agents, backend systems, devops
+└── always up for  →  good conversations about tech and side projects
+```
 
 <div align="center">
 <sub><code>happy engineering!</code></sub>
