@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 310" width="100%" role="img" aria-label="a day: running, working as a forward deployed engineer, lifting, building with Claude and open source">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#14141f"/><stop offset="0.5" stop-color="#0d0d14"/><stop offset="1" stop-color="#0a0a0f"/></linearGradient></defs>
+<rect width="900" height="310" rx="12" fill="url(#bg)"/>
+<g transform="translate(0,0)">
+<g>
+<circle cx="168" cy="92" r="30" fill="#fbbf24" opacity="0.10"><animate attributeName="r" values="26;34;26" dur="6s" repeatCount="indefinite"/></circle>
+<circle cx="168" cy="92" r="13" fill="#fbbf24" opacity="0.85"><animate attributeName="cy" values="96;88;96" dur="9s" repeatCount="indefinite"/></circle>
+<line x1="14" y1="235" x2="211" y2="235" stroke="#52525b" stroke-width="2"/>
+<line x1="14" y1="243" x2="211" y2="243" stroke="#52525b" stroke-width="2" stroke-dasharray="8 16"><animate attributeName="stroke-dashoffset" from="0" to="24" dur="0.6s" repeatCount="indefinite"/></line>
+<g stroke="#52525b" stroke-width="2" stroke-linecap="round"><line x1="52" y1="130" x2="76" y2="130"><animate attributeName="opacity" values="0;1;0" dur="0.6s" repeatCount="indefinite"/></line><line x1="44" y1="150" x2="72" y2="150"><animate attributeName="opacity" values="1;0;1" dur="0.6s" repeatCount="indefinite"/></line><line x1="54" y1="170" x2="78" y2="170"><animate attributeName="opacity" values="0;1;0" dur="0.6s" begin="-0.3s" repeatCount="indefinite"/></line></g>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="0.6s" repeatCount="indefinite"/>
+<g transform="translate(106,172)"><g><animateTransform attributeName="transform" type="rotate" values="50;-45;50" dur="0.6s" begin="-0s" repeatCount="indefinite"/><path d="M0,0 L10,22 L-8,46 L0,49" fill="none" stroke="#52525b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></g></g>
+<g transform="translate(113,132)"><g><animateTransform attributeName="transform" type="rotate" values="55;-55;55" dur="0.6s" begin="-0s" repeatCount="indefinite"/><path d="M0,0 L-4,18 L12,28" fill="none" stroke="#52525b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g></g>
+<path d="M115,127 L106,172" stroke="#e4e4e7" stroke-width="7" stroke-linecap="round"/>
+<circle cx="119" cy="112" r="11" fill="#e4e4e7"/>
+<path d="M108,104 L130,102" stroke="#d97757" stroke-width="3" stroke-linecap="round"/>
+<g transform="translate(106,172)"><g><animateTransform attributeName="transform" type="rotate" values="-45;50;-45" dur="0.6s" begin="-0s" repeatCount="indefinite"/><path d="M0,0 L10,22 L-8,46 L0,49" fill="none" stroke="#e4e4e7" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></g></g>
+<g transform="translate(113,132)"><g><animateTransform attributeName="transform" type="rotate" values="-55;55;-55" dur="0.6s" begin="-0s" repeatCount="indefinite"/><path d="M0,0 L-4,18 L12,28" fill="none" stroke="#e4e4e7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g></g>
+</g></g><g font-family="ui-monospace,Menlo,Consolas,monospace" text-anchor="middle"><text x="112" y="268" font-size="9" fill="#52525b">06:00</text><text x="112" y="283" font-size="13" fill="#e4e4e7">run</text><text x="112" y="297" font-size="8.5" fill="#52525b">start the day moving</text></g></g><g transform="translate(225,0)">
+<g>
+<rect x="150" y="40" width="56" height="52" rx="3" fill="none" stroke="#52525b" stroke-width="2"/>
+<g fill="#1f2233"><rect x="156" y="70" width="8" height="20"/><rect x="166" y="60" width="9" height="30"/><rect x="177" y="74" width="8" height="16"/><rect x="187" y="64" width="9" height="26"/></g>
+<g fill="#fbbf24"><rect x="169" y="66" width="2" height="2"><animate attributeName="opacity" values="1;0.2;1" dur="5s" repeatCount="indefinite"/></rect><rect x="190" y="70" width="2" height="2"><animate attributeName="opacity" values="0.2;1;0.2" dur="7s" repeatCount="indefinite"/></rect></g>
+<line x1="14" y1="235" x2="211" y2="235" stroke="#52525b" stroke-width="2"/>
+<path d="M44,150 L44,200 L62,200" fill="none" stroke="#52525b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="44" y1="200" x2="44" y2="235" stroke="#52525b" stroke-width="3"/>
+<path d="M70,186 L106,186 L106,234" fill="none" stroke="#e4e4e7" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M70,186 L72,140" stroke="#e4e4e7" stroke-width="8" stroke-linecap="round"/>
+<path d="M69,143 L75,143 L74,166 L72,170 L70,166 Z" fill="#f87171"/>
+<circle cx="76" cy="120" r="11" fill="#e4e4e7"/>
+<path d="M68,113 Q78,104 86,114" fill="none" stroke="#0a0a0f" stroke-width="3"/>
+<rect x="96" y="172" width="118" height="5" rx="2" fill="#52525b"/><line x1="206" y1="177" x2="206" y2="235" stroke="#52525b" stroke-width="3"/><line x1="104" y1="177" x2="104" y2="196" stroke="#52525b" stroke-width="3"/>
+<path d="M118,170 L170,170" stroke="#e4e4e7" stroke-width="4" stroke-linecap="round"/>
+<path d="M170,170 L180,128" stroke="#e4e4e7" stroke-width="4" stroke-linecap="round"/>
+<path d="M175,150 L178,138" stroke="#7dd3fc" stroke-width="2" opacity="0.7"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="2s" repeatCount="indefinite"/></path>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0;0 -1;0 0" dur="0.35s" repeatCount="indefinite"/>
+<path d="M74,148 L94,160 L116,166" fill="none" stroke="#e4e4e7" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<rect x="194" y="154" width="12" height="16" rx="2" fill="none" stroke="#e4e4e7" stroke-width="2"/><path d="M206,158 q6,2 0,8" fill="none" stroke="#e4e4e7" stroke-width="2"/>
+<g stroke="#52525b" stroke-width="1.5" fill="none" stroke-linecap="round"><path d="M197,148 q-3,-5 0,-9 q3,-4 0,-8"><animate attributeName="opacity" values="0;0.9;0" dur="3s" repeatCount="indefinite"/></path><path d="M203,148 q-3,-5 0,-9 q3,-4 0,-8"><animate attributeName="opacity" values="0.9;0;0.9" dur="3s" repeatCount="indefinite"/></path></g>
+<g font-family="ui-monospace,Menlo,Consolas,monospace" font-size="9" fill="#7dd3fc"><text x="104" y="112"><tspan>deployed ✓</tspan><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.3;0.4;0.8;0.95" dur="6s" repeatCount="indefinite"/></text></g>
+</g><g font-family="ui-monospace,Menlo,Consolas,monospace" text-anchor="middle"><text x="112" y="268" font-size="9" fill="#52525b">09:00</text><text x="112" y="283" font-size="13" fill="#e4e4e7">work</text><text x="112" y="297" font-size="8.5" fill="#52525b">forward deployed engineer</text></g></g><line x1="225" y1="30" x2="225" y2="255" stroke="#27272a" stroke-width="1"/><g transform="translate(450,0)">
+<g>
+<line x1="14" y1="235" x2="211" y2="235" stroke="#52525b" stroke-width="2"/>
+<g fill="none" stroke="#52525b" stroke-width="3" stroke-linecap="round"><rect x="176" y="222" width="26" height="6" rx="1" fill="#52525b"/><rect x="178" y="215" width="22" height="6" rx="1" fill="#52525b"/><rect x="180" y="208" width="18" height="6" rx="1" fill="#52525b"/></g>
+<path d="M108,172 L102,235 M118,172 L124,235" stroke="#e4e4e7" stroke-width="7" stroke-linecap="round"/>
+<path d="M112,128 L113,174" stroke="#e4e4e7" stroke-width="9" stroke-linecap="round"/>
+<line x1="101" y1="126" x2="125" y2="126" stroke="#e4e4e7" stroke-width="7" stroke-linecap="round"/>
+<circle cx="113" cy="104" r="11" fill="#e4e4e7"/>
+<path d="M104,98 L122,98" stroke="#d97757" stroke-width="3" stroke-linecap="round"/>
+<circle cx="130" cy="98" r="2" fill="#7dd3fc"><animate attributeName="cy" values="96;120;96" keyTimes="0;0.5;1" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="2.4s" repeatCount="indefinite"/></circle>
+<line x1="102" y1="128" x2="82" y2="126" stroke="#e4e4e7" stroke-width="5" stroke-linecap="round"><animate attributeName="y2" values="126;76;76;126" keyTimes="0;0.4;0.6;1" dur="3.6s" repeatCount="indefinite"/></line>
+<line x1="124" y1="128" x2="144" y2="126" stroke="#e4e4e7" stroke-width="5" stroke-linecap="round"><animate attributeName="y2" values="126;76;76;126" keyTimes="0;0.4;0.6;1" dur="3.6s" repeatCount="indefinite"/></line>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -50;0 -50;0 0" keyTimes="0;0.4;0.6;1" dur="3.6s" repeatCount="indefinite"/>
+<line x1="56" y1="126" x2="170" y2="126" stroke="#e4e4e7" stroke-width="4" stroke-linecap="round"/>
+<rect x="58" y="106" width="8" height="40" rx="2" fill="#e4e4e7"/><rect x="67" y="114" width="6" height="24" rx="2" fill="#52525b"/>
+<rect x="160" y="106" width="8" height="40" rx="2" fill="#e4e4e7"/><rect x="153" y="114" width="6" height="24" rx="2" fill="#52525b"/></g>
+</g><g font-family="ui-monospace,Menlo,Consolas,monospace" text-anchor="middle"><text x="112" y="268" font-size="9" fill="#52525b">18:00</text><text x="112" y="283" font-size="13" fill="#e4e4e7">lift</text><text x="112" y="297" font-size="8.5" fill="#52525b">push a little more</text></g></g><line x1="450" y1="30" x2="450" y2="255" stroke="#27272a" stroke-width="1"/><g transform="translate(675,0)">
+<g>
+<circle cx="200" cy="40" r="0" fill="none"/>
+<rect x="18" y="26" width="189" height="98" rx="7" fill="#0d0d14" stroke="#52525b" stroke-width="1.5"/>
+<g fill="#52525b"><circle cx="28" cy="36" r="2.2"/><circle cx="36" cy="36" r="2.2"/><circle cx="44" cy="36" r="2.2"/></g>
+<g font-family="ui-monospace,Menlo,Consolas,monospace" font-size="9"><text x="30" y="58" fill="#d97757">$ claude<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.05;0.08;0.92;1" dur="10s" repeatCount="indefinite"/></text><text x="30" y="72" fill="#e4e4e7">> fix flaky auth test<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.18;0.21;0.92;1" dur="10s" repeatCount="indefinite"/></text><text x="30" y="86" fill="#52525b">● editing 3 files…<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.31;0.34;0.92;1" dur="10s" repeatCount="indefinite"/></text><text x="30" y="100" fill="#7dd3fc">✓ tests pass<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.44;0.47;0.92;1" dur="10s" repeatCount="indefinite"/></text><text x="30" y="114" fill="#d97757">$ git push<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.57;0.60;0.92;1" dur="10s" repeatCount="indefinite"/></text></g>
+<rect x="30" y="112" width="5" height="2" fill="#d97757"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<circle cx="122" cy="132" r="3" fill="none" stroke="#52525b"/><circle cx="116" cy="144" r="2" fill="none" stroke="#52525b"/>
+<line x1="14" y1="235" x2="211" y2="235" stroke="#52525b" stroke-width="2"/>
+<path d="M92,216 L136,226 L84,228" fill="none" stroke="#e4e4e7" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity="0"/>
+<path d="M82,224 L134,224 L142,234" fill="none" stroke="#e4e4e7" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M88,222 L94,190" stroke="#e4e4e7" stroke-width="9" stroke-linecap="round"/>
+<path d="M82,178 A14,14 0 0 1 108,176" fill="none" stroke="#52525b" stroke-width="5" stroke-linecap="round"/>
+<circle cx="96" cy="172" r="11" fill="#e4e4e7"/>
+<path d="M83,176 A14,14 0 0 1 109,174" fill="none" stroke="#d97757" stroke-width="2.5"/><circle cx="84" cy="177" r="3.5" fill="#d97757"/><circle cx="108" cy="176" r="3.5" fill="#d97757"/>
+<path d="M112,218 L160,218" stroke="#e4e4e7" stroke-width="4" stroke-linecap="round"/>
+<path d="M160,218 L168,188" stroke="#e4e4e7" stroke-width="4" stroke-linecap="round"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0;0 -1;0 0" dur="0.3s" repeatCount="indefinite"/>
+<path d="M94,194 L110,208 L128,214" fill="none" stroke="#e4e4e7" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g stroke="#e4e4e7" stroke-width="2" fill="none"><path d="M186,206 L186,224"/><path d="M186,206 q14,0 14,10"/></g>
+<g fill="#e4e4e7"><circle cx="186" cy="206" r="3.5"><animate attributeName="r" values="3;5;3" dur="2.4s" repeatCount="indefinite"/></circle><circle cx="186" cy="224" r="3.5"><animate attributeName="r" values="3;5;3" dur="2.4s" begin="-0.8s" repeatCount="indefinite"/></circle><circle cx="200" cy="216" r="3.5"><animate attributeName="r" values="3;5;3" dur="2.4s" begin="-1.6s" repeatCount="indefinite"/></circle></g>
+<text x="190" y="190" font-size="14" fill="#fbbf24" text-anchor="middle"><tspan>★</tspan><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.2;0.7;1" dur="4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 8;0 -6" dur="4s" repeatCount="indefinite"/></text>
+</g><g font-family="ui-monospace,Menlo,Consolas,monospace" text-anchor="middle"><text x="112" y="268" font-size="9" fill="#52525b">22:00</text><text x="112" y="283" font-size="13" fill="#e4e4e7">build</text><text x="112" y="297" font-size="8.5" fill="#52525b">claude + open source</text></g></g><line x1="675" y1="30" x2="675" y2="255" stroke="#27272a" stroke-width="1"/>
+</svg>

@@ -20,4 +20,4 @@ about me
 <sub><code>happy engineering!</code></sub>
 </div>
 
-<img src="assets/calm.svg" width="100%" alt="calm night sky over gentle waves" />
+<img src="assets/day.svg" width="100%" alt="a day in my life: run, work, lift, build" />
